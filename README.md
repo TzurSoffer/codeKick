@@ -15,5 +15,5 @@ Click on it and search in the input box for the function or class you want to fi
 
 Once you found what you were looking for, click on it to copy it to your clipboard.
 
-[error loading gif]("https://github.com/RandomTheFirst/codeKick/blob/master/assets/codeKickShowcase.gif")
+![error loading gif]("https://github.com/RandomTheFirst/codeKick/blob/master/assets/codeKickShowcase.gif")
 **Enjoy!**
