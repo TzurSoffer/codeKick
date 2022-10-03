@@ -16,4 +16,5 @@ Click on it and search in the input box for the function or class you want to fi
 Once you found what you were looking for, click on it to copy it to your clipboard.
 
 ![error loading gif]("https://raw.githubusercontent.com/RandomTheFirst/codeKick/master/assets/codeKickShowcase.gif")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 **Enjoy!**
